@@ -1,0 +1,3 @@
+﻿  tutorial.cpp
+C:\Users\Jords\Desktop\Software_Projects\threadingProject\threadingProject\tutorial.cpp(230,23): warning C4018: '<': signed/unsigned mismatch
+  threadingProject.vcxproj -> C:\Users\Jords\Desktop\Software_Projects\threadingProject\Debug\threadingProject.exe
